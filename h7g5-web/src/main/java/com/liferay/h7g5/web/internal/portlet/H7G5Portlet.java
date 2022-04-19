@@ -60,6 +60,8 @@ public class H7G5Portlet extends GenericPortlet {
 	@Reference
 	private H7G5FolderLocalService _h7G5FolderLocalService;
 
+	@Reference
+	private H7G5EntryLocalService _h7G5EntryLocalService;
 
 
 }
